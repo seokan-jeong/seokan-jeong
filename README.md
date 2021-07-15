@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Seokan.
-- 👀 I’m interested in iOS/Android Application Developing.
+- Interested in FE(Android/iOS)
 
 <!---
 seokan-jeong/seokan-jeong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
