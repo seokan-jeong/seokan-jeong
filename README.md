@@ -1,4 +1,4 @@
-- Interested in FE(Android(Kotlin)/React)
+- Interested in Android(Kotlin)
 
 <!---
 seokan-jeong/seokan-jeong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
